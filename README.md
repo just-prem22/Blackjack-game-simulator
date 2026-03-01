@@ -79,6 +79,41 @@ Controls the main gameplay logic.
 ### `main()`
 Allows replay functionality.
 
+
+
 ---
 
-## 📂 Project Structure
+## ▶️ How to Run the Project
+
+### 1. Install Python
+
+### 2. Clone Repository
+
+### 3. Run Program
+
+---
+
+
+## 🎮 Example Gameplay
+
+Your cards: [10, 7] | Current score: 17
+Computer's first card: 9
+
+Type 'y' to get another card, type 'n' to pass: n
+
+----- Final Result -----
+
+
+
+Your final hand: [10, 7] | Final score: 17
+Computer final hand: [9, 8] | Final score: 17
+It's a Draw.
+
+<p align="center">
+  <img src="assets/blackjack1.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/blackjack2.png" width="600">
+</p>
+
