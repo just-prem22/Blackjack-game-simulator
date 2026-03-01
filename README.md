@@ -109,11 +109,43 @@ Your final hand: [10, 7] | Final score: 17
 Computer final hand: [9, 8] | Final score: 17
 It's a Draw.
 
-<p align="center">
-  <img src="assets/blackjack1.png" width="600">
-</p>
 
-<p align="center">
-  <img src="assets/blackjack2.png" width="600">
-</p>
+---
+## Gameplay Screenshots
 
+![Blackjack Gameplay 1](blackjack1.png)
+![Blackjack Gameplay 2](blackjack2.png)
+
+
+---
+
+## 🚀 Learning Outcomes
+
+- Better understanding of Python fundamentals  
+- Logical flow design for real-world problems  
+- Modular programming using functions  
+- Handling edge cases (Ace logic)  
+- Building interactive terminal applications  
+
+---
+
+
+## 🛠️ Requirements
+
+- Python 3.x  
+- No external libraries required
+### ⚠️ Note
+
+This project is an interactive console-based program and is best run in a local environment (such as VS Code or terminal).  
+Some online compilers may not handle multiple input loops correctly, which can cause the program to stop or behave unexpectedly.
+
+---
+
+## 👨‍💻 Author
+
+**Prem Kumar**  
+B.Tech CSE Student | Learning Python, Software Development and Programming
+
+---
+
+⭐ If you like this project, consider giving it a star!
