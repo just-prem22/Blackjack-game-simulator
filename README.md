@@ -230,7 +230,7 @@ flowchart TD
 
 <tr>
 <td><strong>3️⃣ Run Program</strong></td>
-<td><code>python Blackjack.py</code></td>
+<td><code>Blackjack.py</code></td>
 <td>Launch the game</td>
 </tr>
 
